@@ -17,7 +17,7 @@ I specialize in cloud infrastructure, automation, and network operations. Curren
 - Standardizing processes across data center operations
 
 ### 📫 Connect With Me
-- LinkedIn: [your-linkedin-url]
+- LinkedIn: [John Owens](https://linkedin.com/in/jowens4)
 - Email: jchristopher.iq@gmail.com
 
 ### 📊 GitHub Stats
